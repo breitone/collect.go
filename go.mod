@@ -1,4 +1,4 @@
-module github.com/maximbreitman/collect.go
+module github.com/breitone/collect.go
 
 go 1.22
 
